@@ -52,5 +52,11 @@ deactivate
 ##### Remove virtual environment
 rm -rf venv
 
+### Alternative
+Install via Anaconda
+
+Or use (will not be able to access maphub)
+https://notebooks.esri.com
+
 
 
